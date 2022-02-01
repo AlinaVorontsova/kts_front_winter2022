@@ -1,8 +1,8 @@
 import './App.css'
 import searchBtn from './img/search.png'
-import Avatar1 from './img/Avatar.png'
-import Avatar2 from './img/Avatar2.png'
-import favStar from './img/favStar.png'
+import Avatar1 from './img/Pict.png'
+import Avatar2 from './img/Pict2.png'
+import favStar from './img/star.png'
 
 function App() {
     return (
